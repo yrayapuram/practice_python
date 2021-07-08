@@ -6,9 +6,9 @@ age = 22
 age = "Smart Program"
 name = 22
 
-def printdata():
+def print_data():
     # age int value needs to be converted to str.
     print("Name \t: " + age + "\n" + "Age \t: " + str(name))
 
 
-printdata()
+print_data()
